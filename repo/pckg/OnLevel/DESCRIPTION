@@ -1,0 +1,13 @@
+Package: OnLevel
+Type: Package
+Title: On Level
+Author: Brian Fannin <BFannin@RedwoodsGroup.com>
+Maintainer: Brian Fannin <BFannin@RedwoodsGroup.com>
+Depends: R (>= 2.11.0)
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyLoad: yes
+Authors@R: c(person(given = "Brian", family = "Fannin" , email =
+       "BFannin@RedwoodsGroup.com" , role = c("aut", "cre")))
+Version: 0.01-1
+Date: 2013-06-17

@@ -1,0 +1,13 @@
+bibentry("Manual",
+		title="OnLevel: On Level",
+		author="Brian Fannin",
+		year="2013",
+		note="(Version 0.01-1)",
+		
+
+		textVersion =
+		paste("Fannin, B. (2013). ",
+				"OnLevel: On Level (Version 0.01-1). ",
+				sep=""),
+
+		mheader = "To cite OnLevel in publications use:")

@@ -6,3 +6,4 @@
 
 *.RProj
 .RData
+.Rproj.user
